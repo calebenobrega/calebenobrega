@@ -1,29 +1,81 @@
-# Olá, eu sou o Calebe
+<div align="center">
 
-Desenvolvedor Full Stack Júnior, formando em Sistemas de Informação na Unifacisa
-(conclusão em jul/2026). Construo interfaces com React e TypeScript e venho
-expandindo para back-end com Node.js.
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"/>
 
-## Stack atual
+# Calebe Nóbrega
 
-**Front-end:** React · TypeScript · JavaScript · Tailwind CSS
-**Back-end:** Node.js · Fastify · APIs REST · PostgreSQL · Drizzle ORM
-**Ferramentas:** Git · Docker · Figma · Vite
-**Estudando agora:** MongoDB · Python · Java - Claude · IA
+Desenvolvedor Full Stack Júnior — Campina Grande, PB
 
-## Onde estou
+Formando em Sistemas de Informação na Unifacisa (jul/2026).
+React e TypeScript no front, Node.js no back, IA no fluxo.
 
-- Trabalhei como desenvolvedor front-end por 1 ano na Cypher Financial AI,
-  construindo uma plataforma de inteligência financeira.
-- Atualmente desenvolvendo o [Fruitalite](https://github.com/calebenobrega/Fruitalite),
-  app de gestão de compras para hortifrúti em uso no CEASA.
-- Aplicando IA no fluxo de desenvolvimento (Claude e Claude Code).
+</div>
+
+---
+
+## Stack
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+</div>
+
+---
+
+## Estatísticas
+
+<div align="center">
+
+<a href="https://github.com/calebenobrega">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=calebenobrega&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebenobrega&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=calebenobrega&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Projeto atual
+
+**[Fruita](https://github.com/calebenobrega/fruita)** — app de gestão de compras para hortifrúti, em construção. Substitui o controle em papel usado por compradores no CEASA. Funciona offline porque internet lá é caos.
+
+Versão anterior em uso real: **[Fruitalite](https://github.com/calebenobrega/Fruitalite)**.
+
+---
+
+## Trajeto
+
+- 1 ano como dev front-end na **Cypher Financial AI** (plataforma de inteligência financeira)
+- Staff voluntário no **ICPC 2024** — Maratona SBC de Programação
+- Inglês B2
 
 ## Contato
 
-- LinkedIn: [linkedin.com/in/calebenobrega](https://linkedin.com/in/calebenobrega)
-- Email: calebedepsn@gmail.com
-- Campina Grande, PB — aberto a vagas remotas, híbridas e presenciais
+<div align="center">
 
-Inglês avançado (B2). Buscando vaga júnior em time que valorize qualidade
-técnica e crescimento rápido.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/calebenobrega)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calebedepsn@gmail.com)
+
+Aberto a vagas remotas, híbridas, presenciais e realocação.
+
+</div>
