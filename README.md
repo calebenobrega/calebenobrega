@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="https://media3.giphy.com/media/e5xL4bU0ETgLm/giphy.gif" width="400"/>
-
 # Calebe Nóbrega
 
 Desenvolvedor Full Stack Júnior — Campina Grande, PB
