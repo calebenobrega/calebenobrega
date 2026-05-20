@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://giphy.com/gifs/pokemon-snorlax-s02e20-e5xL4bU0ETgLm]" width="500"/>
+<img src="https://media3.giphy.com/media/e5xL4bU0ETgLm/giphy.gif" width="400"/>
 
 # Calebe Nóbrega
 
@@ -32,7 +32,6 @@ React e TypeScript no front, Node.js no back, IA no fluxo.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
@@ -42,14 +41,8 @@ React e TypeScript no front, Node.js no back, IA no fluxo.
 
 <div align="center">
 
-<a href="https://github.com/calebenobrega">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=calebenobrega&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebenobrega&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=calebenobrega&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=calebenobrega&show_icons=true&theme=tokyonight&hide_border=true&card_width=450"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebenobrega&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=350"/>
 
 </div>
 
