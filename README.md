@@ -31,16 +31,7 @@ React e TypeScript no front, Node.js no back, IA no fluxo.
 
 </div>
 
----
 
-## Estatísticas
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=calebenobrega&show_icons=true&theme=tokyonight&hide_border=true&card_width=450"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebenobrega&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=350"/>
-
-</div>
 
 ---
 
