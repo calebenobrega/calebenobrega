@@ -1,9 +1,29 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Calebe.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
+# Olá, eu sou o Calebe
 
+Desenvolvedor Full Stack Júnior, formando em Sistemas de Informação na Unifacisa
+(conclusão em jul/2026). Construo interfaces com React e TypeScript e venho
+expandindo para back-end com Node.js.
 
-<div align="left" style="display: flex; justify-content: center;">
-  <a href="https://github.com/calebenobrega">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebenobrega&layout=compact&langs_count=7&theme=one_dark_pro"/>
-  </a>
-</div>
+## Stack atual
 
+**Front-end:** React · TypeScript · JavaScript · Tailwind CSS
+**Back-end:** Node.js · Fastify · APIs REST · PostgreSQL · Drizzle ORM
+**Ferramentas:** Git · Docker · Figma · Vite
+**Estudando agora:** MongoDB · Python · Java - Claude · IA
+
+## Onde estou
+
+- Trabalhei como desenvolvedor front-end por 1 ano na Cypher Financial AI,
+  construindo uma plataforma de inteligência financeira.
+- Atualmente desenvolvendo o [Fruitalite](https://github.com/calebenobrega/Fruitalite),
+  app de gestão de compras para hortifrúti em uso no CEASA.
+- Aplicando IA no fluxo de desenvolvimento (Claude e Claude Code).
+
+## Contato
+
+- LinkedIn: [linkedin.com/in/calebenobrega](https://linkedin.com/in/calebenobrega)
+- Email: calebedepsn@gmail.com
+- Campina Grande, PB — aberto a vagas remotas, híbridas e presenciais
+
+Inglês avançado (B2). Buscando vaga júnior em time que valorize qualidade
+técnica e crescimento rápido.
